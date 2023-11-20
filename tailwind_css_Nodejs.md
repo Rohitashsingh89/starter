@@ -141,6 +141,4 @@ my-tailwind-project/
 
 Explore the [Tailwind CSS documentation](https://tailwindcss.com/docs) for more information on using different utility classes and customization options.
 
-Feel free to explore and customize based on your project requirements!
-
 Happy coding with Tailwind CSS! 🚀
