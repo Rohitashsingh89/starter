@@ -58,6 +58,4 @@ You might want to explore other tools and libraries to enhance your React develo
 - [Styled-components](https://styled-components.com/): For styling React components with tagged template literals.
 - [Axios](https://axios-http.com/): For making HTTP requests.
 
-Feel free to explore and customize based on your project requirements!
-
 Happy coding! 🚀
