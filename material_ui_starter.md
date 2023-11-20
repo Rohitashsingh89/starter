@@ -79,6 +79,4 @@ export default App;
 
 Explore the [Material-UI documentation](https://mui.com/) for more information on using different components and customization options.
 
-Feel free to explore and customize based on your project requirements!
-
 Happy coding with Material-UI! 🎨
